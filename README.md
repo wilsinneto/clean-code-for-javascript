@@ -1,3 +1,1 @@
-Git course with GitHub
-
-Este é apenas um repositório teste.
+Just a test repository adding clean code tips in javascript.
